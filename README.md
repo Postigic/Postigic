@@ -13,4 +13,6 @@ i mainly work with python, but i have significant experience with javascript
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Postigic&layout=compact&theme=dark&hide_border=true)</a>
 </details> 
 
+#
+
 [![My Skills](https://skillicons.dev/icons?i=vscode,py,js,html,css,)](https://skillicons.dev)
