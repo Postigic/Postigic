@@ -1,6 +1,6 @@
 # [![image](https://github.com/Postigic/Postigic/assets/143212308/04c22798-abe9-40df-bd86-6a903497967a)](https://postigic.github.io)
 
-# heya, i'm post. i program basically whatever i feel like doing
+heya, i'm post. i program basically whatever i feel like doing
 <br>
 i mainly work with python, but i have significant experience with javascript
 
