@@ -1,4 +1,4 @@
-# website link placeholder
+# [![image](https://github.com/Postigic/Postigic/assets/143212308/955c80db-4121-468e-b7e6-a2437fadade2)](https://postigic.github.io)
 
 heya, i'm post. i program basically whatever i feel like doing
 <br>
