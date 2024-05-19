@@ -1,4 +1,4 @@
-# [![image](https://github.com/Postigic/Postigic/assets/143212308/04c22798-abe9-40df-bd86-6a903497967a)]
+# [![image](https://github.com/Postigic/Postigic/assets/143212308/04c22798-abe9-40df-bd86-6a903497967a)](https://postigic.github.io)
 
 <b>heya, i'm post.</b> i program basically whatever i feel like doing
 <br>
