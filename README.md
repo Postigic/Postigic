@@ -6,10 +6,12 @@ i mainly work with python, but i have significant experience with javascript
 
 #
 
-<div align="center">
-  <a href="#">![Github Stats](https://github-readme-stats.vercel.app/api?username=Postigic&show_icons=true&theme=dark&hide_border=true)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Postigic&layout=compact&theme=dark&hide_border=true)</a>
-</div>  
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=postigic&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=postigic&layout=compact&hide_border=true&theme=dark&bg_color=00000000">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=postigic&theme=dark&hide_border=true&background=FFFFFF00">
+</p>
+
 
 #
 
