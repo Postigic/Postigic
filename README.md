@@ -6,10 +6,10 @@ i mainly work with python, but i have significant experience with javascript
 
 #
 
-<p align="center">
+<div align="center">
   <a href="#">![Github Stats](https://github-readme-stats.vercel.app/api?username=Postigic&show_icons=true&theme=dark&hide_border=true)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Postigic&layout=compact&theme=dark&hide_border=true)</a>
-</p>  
+</div>  
 
 #
 
