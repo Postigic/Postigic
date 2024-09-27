@@ -1,6 +1,14 @@
+<h2 align="center">heya, i'm post</h2>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=postigic&color=orange"/>
+</p>
+
+<hr/>
+
 # [![image](https://github.com/Postigic/Postigic/assets/143212308/04c22798-abe9-40df-bd86-6a903497967a)](https://postigic.github.io)
 
-<b>heya, i'm post.</b> i program basically whatever i feel like doing
+i program basically whatever i feel like doing
 <br>
 i mainly work with python, but i have significant experience with javascript
 
