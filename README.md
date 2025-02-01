@@ -21,4 +21,4 @@ i mainly work with python, but i have a lot of experience with javascript
 
 #
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,py,js,html,css,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,py,js,html,css,c,cpp)](https://skillicons.dev)
