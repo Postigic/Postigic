@@ -1,4 +1,4 @@
-<h2 align="center">heya, i'm post</h2>
+<h1 align="center">heya, i'm post</h1>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=postigic&color=orange"/>
@@ -6,6 +6,8 @@
 
 <hr/>
 
+16 yo singaporean male
+<br>
 i program basically whatever i feel like doing
 <br>
 i mainly work with python, ~~but i have a lot of experience with javascript~~ i don't remember how to write in js... sigh...
