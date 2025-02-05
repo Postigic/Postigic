@@ -8,7 +8,7 @@
 
 i program basically whatever i feel like doing
 <br>
-i mainly work with python, but i have a lot of experience with javascript
+i mainly work with python, ~~but i have a lot of experience with javascript~~ i don't remember how to write in js... sigh...
 
 #
 
