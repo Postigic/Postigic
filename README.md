@@ -6,7 +6,7 @@
 
 ---
 
-a self-taught programmer from singapore!!! currently studying at Bukit View Secondary School  
+i'm a self-taught programmer from singapore!!! currently studying at Bukit View Secondary School  
 i love everything ICT!!! some current things on my bucket list are:
 
 - computer architecture
