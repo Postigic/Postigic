@@ -17,7 +17,6 @@ i love everything ICT!!! some current things on my bucket list are:
 - cybersecurity
 - reverse engineering
 - networking
-</br>
 and many more!!!
 
 #
