@@ -6,11 +6,19 @@
 
 <hr/>
 
-16 yo singaporean male
-<br>
-i program basically whatever i feel like doing
-<br>
-i mainly work with python, ~~but i have a lot of experience with javascript~~ i don't remember how to write in js... sigh...
+a self-taught programmer from singapore!!! currently studying at Bukit View Secondary School
+</br>
+i love everything ICT!!! some current things on my bucket list are:
+</br>
+- computer architecture
+- operating systems
+- systems programming
+- embedded systems
+- cybersecurity
+- reverse engineering
+- networking
+</br>
+and many more!!!
 
 #
 
