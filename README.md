@@ -6,26 +6,12 @@
 
 ---
 
-i'm a self-taught programmer from singapore!!! currently studying at Bukit View Secondary School  
-i love everything ICT!!! some current things on my bucket list are:
+I'm a self-taught programmer from Singapore. I graduated from Bukit View Secondary School.  
+I enjoy everything related to computer science and related fields. Some areas I'm currently exploring or planning to explore are:
 
-- computer architecture
-- operating systems
-- systems programming
-- embedded systems
-- cybersecurity
-- reverse engineering
-- networking
-
-and many more!!!
-
----
-
-<p align="center">
-  <img height="180px" width="auto" src ="https://github-readme-stats.vercel.app/api?username=postigic&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="180px" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=postigic&layout=compact&hide_border=true&theme=dark&bg_color=00000000">
-</p>
-
----
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,py,js,html,css,c,cpp)](https://skillicons.dev)
+- Discrete Mathematics
+- Data Structures and Algorithms
+- Number Theory
+- Set Theory
+- Linear Algebra
+- Further Mathematics
